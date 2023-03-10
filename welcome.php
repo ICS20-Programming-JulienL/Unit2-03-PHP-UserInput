@@ -1,0 +1,1 @@
+	Your address is <?php echo $_POST["StNu"]; ?> <?php echo $_POST["StN"]; ?>.
